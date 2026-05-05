@@ -1,0 +1,3 @@
+../Core/Src/bsp_ov7725.c:115:13:Ov7725_Init	16	static
+../Core/Src/bsp_ov7725.c:145:23:is_orange	40	static
+../Core/Src/bsp_ov7725.c:167:6:ImagDisp	80	static
